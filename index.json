@@ -1,0 +1,11 @@
+{
+  "org": "serde-rs",
+  "repo": "test",
+  "versions": [
+    {
+      "commit": "bbb18e2db032ec5da07e07368e4d55647cf10229",
+      "tag": "1.0.177",
+      "parsed_at": "2026-11-22T10:07:56.105656+00:00"
+    }
+  ]
+}
