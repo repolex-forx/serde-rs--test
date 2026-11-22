@@ -25,6 +25,41 @@
       ],
       "ast": [
         "aggregate/ast/bbb18e2db032ec5da07e07368e4d55647cf10229/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/bbb18e2db032ec5da07e07368e4d55647cf10229.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "serde",
+          "ecosystem": "CARGO",
+          "version": "1.0.69",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubCommit": "3bcd568c868d1612ccada160697f0cdcfb494ef8",
+          "githubTag": "v1.0.69",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_derive",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_core",
+          "ecosystem": "CARGO",
+          "version": "1.0.229",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubCommit": "7fc3b4c30c94f73a96ebd1553f2b090d928fc3a8",
+          "githubTag": "v1.0.229",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_core-1.0.229/src/de/mod.rs"
+        }
       ]
     }
   ],
