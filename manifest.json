@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "serde-rs",
+  "repo": "test",
+  "versions": [
+    {
+      "commit": "bbb18e2db032ec5da07e07368e4d55647cf10229",
+      "parsed_at": "2026-11-22T10:01:25.725693+00:00",
+      "tag": "1.0.177",
+      "filetree": "filetree/bbb18e2db032ec5da07e07368e4d55647cf10229.nq.gz",
+      "blobs": [
+        "blob/1630954f4695a89e1d5fde6ecdfe907887a750a3.nq.gz",
+        "blob/24e3c08d0bd45b09e5ff00408ae91d084538ae43.nq.gz",
+        "blob/03b3b7b76168766962f6e5d545b6675428603e47.nq.gz",
+        "blob/dc54d4d10e74bd9b85f449a2eb259e4bd3f18d03.nq.gz",
+        "blob/e6321d7237e9d176d9e334f2424cae1bbc3ea76f.nq.gz",
+        "blob/1b5ec8b78e237b5c3b3d812a7c0a6589d0f7161d.nq.gz",
+        "blob/a5d9e1da4b0dd4c40784621f796d2217bd4f39f0.nq.gz",
+        "blob/4fffb2f89cbd8f2169ce9914bd16bd43785bb368.nq.gz",
+        "blob/73a7e45c38b953793ae35b32f93b63a1563d2379.nq.gz",
+        "blob/e935799f630a792f0eef110e2a0cc0e7ac6f9cf4.nq.gz",
+        "blob/1ff4c73010a47f96989f6f0803319a0146c8ca41.nq.gz",
+        "blob/245bbe8b9a1090e073b0236be1d2cf18da37a87d.nq.gz",
+        "blob/31aa79387f27e730e33d871925e152e35e428031.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
